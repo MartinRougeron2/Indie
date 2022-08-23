@@ -1,0 +1,16 @@
+/CMakeFiles/
+
+_deps/
+*.cmake
+CMakeCache.txt
+
+.idea/
+Makefile
+$HOME
+bomberman
+build/
+.vscode/
+null.d
+vgcore.*
+_deps/
+.cache/
